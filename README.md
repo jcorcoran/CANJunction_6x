@@ -6,6 +6,8 @@ This PCB can be ordered from any fab house using the files in the [gerbers](gerb
 ![](img/top.jpg)
 ![](img/bottom.jpg)
 
+![](img/assembled_photo.jpg)
+
 Apply a piece of electrical or kaptop tape to the bottom of the PCB if it is going to be mounted diretly to a conductive surface.
 
 ## Parts:
